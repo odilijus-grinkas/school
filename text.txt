@@ -1,7 +1,4 @@
 Hey bro lol
 hello
-<<<<<<< HEAD
 real p2 here
-=======
 p2 here
->>>>>>> main
